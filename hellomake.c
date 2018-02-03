@@ -1,6 +1,6 @@
 #include<hellomake.h>
 int main()
 {
-myPrintHelloMake();
+myPrintHelloMake();//function call
 return(0);
 }
